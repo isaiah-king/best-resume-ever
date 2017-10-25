@@ -1,4 +1,4 @@
-/* #*/ export const PERSON = `
+/* #*/ export const PERSON = 
 name:
   first: Ted
   middle:
@@ -61,4 +61,3 @@ contact:
   website: tkchi.github.io/tkchi
 # en, de, fr, pt, ca, cn, it, es, th, pt-br, ru, sv, id, hu, pl, ja, nl, he, zh-tw, lt, ko, el
 lang: en
-`
