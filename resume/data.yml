@@ -1,70 +1,64 @@
 /* #*/ export const PERSON = `
 name:
-  first: John
+  first: Ted
   middle:
-  last: Doe
-about: Hi, my name is John Doe. I"m just about the most boring type of person you could
-       possibly imagine. I like collecting leaves from the tree in my back yard and documenting
-       each time I eat a peanut that is non-uniform. I am not a robot. Please hire me.
-position: Software Developer
+  last: Chamberlain
+about: Hi, my name is Ted. Im a jack of all trades - master of none. Im also the owner of TKC Home repairs where our focus lies mainly on resedential home projects. I am an honest reliable and dependable worker. I believe that there is no project small enough to listen or big enough to deliver"
+position: Founder & CEO of TKC Home Repairs
 
 birth:
-  year: 1990
-  location: New York
+  year: 1967
+  location: Massachusetts
 
 experience:
-- company: Company A
-  position: Developer
-  timeperiod: since January 2016
-  description: Programming and watching cute cat videos.
+- company: FTF Cycles
+  position: Mechanic
+  timeperiod: May 2010 - Present
+  description: Service and repair all aspects of motorcycle vehicles
 
-- company: Company B
-  position: Frontend Developer
-  timeperiod: January 2015 - December 2015
-  description: Fulfillment of extremely important tasks.
+- company: Nomad Equiptment
+  position: Equiptment Technition
+  timeperiod: May 2010 - Present
+  description: Servicing equiptment and vehicles that need maintainence.
 
-- company: Company C
-  position: Trainee
-  timeperiod: March 2014 - December 2014
-  description: Making coffee and baking cookies.
+- company: TKC Home Repairs
+  position: Founder/CEO
+  timeperiod: September 2017 - Present
+  description: Home repairs & general contracting.
 
 education:
-- degree: Master of Arts
-  timeperiod: March 2012 - December 2013
-  description: Major in Hacking and Computer Penetration, University A, New York, USA.
-
-- degree: Bachelor of Science
-  timeperiod: March 2009 - December 2011
-  description: Major in Engineering, University B, Los Angeles, USA.
+- degree: High School Diploma
+  timeperiod: September 1982 - June 1986
+  description: Weymouth High School.
 
 # skill level goes 0 to 100
 skills:
-- name: HTML5
+- skills:
+- name: Mechanical Repairs
   level: 99
-- name: CSS3
+- name: Tiling
   level: 95
-- name: JavaScript
+- name: Windows/Doors
   level: 97
-- name: Node.js
+- name: Roofing/Gutters
   level: 93
-- name: Angular 2
-  level: 60
-- name: TypeScript
+- name: Tree Removal
+  level: 88
+- name: Stonemasonry
   level: 80
-- name: ES.Next
-  level: 70
+- name: Interior/Exterior Remodeling
+  level: 85
+- name: Snow Removal
+  level: 99
 - name: Docker
   level: 99
-knowledge: Also proficient in Adobe Photoshop and Illustrator, grew up bilingual
-  (English and Klingon).
+knowledge: Also proficient in interior/exterior painting and estimation, grew up in Construction trade.
 
 contact:
-  email: john.doe@email.com
-  phone: 0123 456789
-  street: 1234 Broadway
-  city: New York
-  website: johndoe.com
-  github: johnyD
+  email: TKChomerepairs@gmail.com
+  phone: +1857 2462097
+  city: city: ' South Shore & Cape Code Area',
+  website: tkchi.github.io/tkchi
 # en, de, fr, pt, ca, cn, it, es, th, pt-br, ru, sv, id, hu, pl, ja, nl, he, zh-tw, lt, ko, el
 lang: en
 `
